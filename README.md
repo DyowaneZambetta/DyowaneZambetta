@@ -3,8 +3,8 @@
 
  </div>
   <a href="https://github.com/DyowaneZambetta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DyowaneZambetta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyowaneZambetta&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DyowaneZambetta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyowaneZambetta&layout=compact&langs_count=16&theme=highcontrast"/>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Dyow-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
