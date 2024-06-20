@@ -13,7 +13,7 @@ Sou um ex Analista de Laboratorio Químico em transição de carreira para a ár
 
  <div align="center">
   <a href="https://github.com/DyowaneZambetta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DyowaneZambetta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=1,000000,16537e&title_color=fff&text_color=fff&icon_color=16537e&border_radius=0"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DyowaneZambetta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=1,000000,16537e&title_color=fff&text_color=fff&icon_color=16537e&border_radius=0&hide=stars"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyowaneZambetta&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=1,16537e,000000&title_color=fff&text_color=fff&border_radius=0"/>
 </div>
 
@@ -37,9 +37,9 @@ Sou um ex Analista de Laboratorio Químico em transição de carreira para a ár
  ## 🔗 Conecte-se
 
 </div>
- <a href="https://www.linkedin.com/in/dev-dyowane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com/dyow_zambetta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:dyowane.zambetta.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/dev-dyowane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+ <a href="https://instagram.com/dyow_zambetta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+ <a href = "mailto:dyowane.zambetta.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href="https://www.dio.me/users/dyowane_zambetta_dev/"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge"></a>
  
 
