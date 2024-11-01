@@ -1,7 +1,14 @@
 # Olá 👋 eu sou o Dyowane Zambetta!
 
 ## 🚀 Sobre mim
-Sou um ex Analista de Laboratorio Químico em transição de carreira para a área de Tecnologia. Sou graduando em Analise e Desenvolvimento de Sistemas e no momento estou realizando um Bootcamp (Backend com Java - Santander) na plataforma DIO.
+Sou estudante de Análise e Desenvolvimento de Sistemas e ultimamente venho qualificando meus conhecimentos na área de programação através de bootcamps, cursos livres e imersões DEV. Venho me desenvolvendo e colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, focando e desenvolvendo ainda mais minhas habilidades com as tecnologias de:
+- Java
+- GitHub
+- Banco de Dados
+
+Estou em transição de carreira da área de Análises Químicas para a área de desenvolvimento Back-end. Como analista químico tive a oportunidade de melhorar minhas habilidades de resolução de problemas e adversidades de resultados; de gerir equipes; ampla experiência com softwares de análises; trabalho em equipe; capacidade de adaptabilidade com mudanças de colaboradores e de departamentos; e principalmente comprometimento com prazos e entregas. Todos esses pontos, com certeza serão extremamente relevantes na minha nova trajetória como desenvolvedor.
+
+Minhas próximas pretensões profissionais estão voltadas primeiramente no cargo de estágio e suporte, e posteriormente a efetivação como júnior. Trabalhando com assuntos como desenvolvimento de softwares, modelagem e banco de dados. No momento estou realizando um Bootcamp (Backend com Java - Santander) na plataforma DIO.
 
 <div align="left">
 
