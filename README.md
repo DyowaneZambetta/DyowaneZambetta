@@ -12,8 +12,8 @@ Minhas próximas pretensões profissionais estão voltadas primeiramente no carg
 
 <div align="left">
 
- - 👨‍💻 Futuro Desenvolvedor Back-end.
-- 🌱 Buscando aprimorar as linguagens Java e Python.
+- 👨‍💻 Desenvolvedor Back-end.
+- 🌱 Buscando aprimorar a linguagem Java.
 
 
 ## 📊 GitHub Stats
